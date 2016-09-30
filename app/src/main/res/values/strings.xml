@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginLinkedin2</string>
+
+    <string name="entrar_com_linkedin">Entrar com Linkedin</string>
+    <string name="loading">loading...</string>
+    <string name="welcome_text">teste</string>
+</resources>
